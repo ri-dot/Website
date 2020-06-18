@@ -1,5 +1,0 @@
-Options -Indexes
-RewriteEngine on
-RewriteRule "^info$" "decrypt.php?page=info"
-RewriteRule "^clone$" "decrypt.php?page=clone"
-RewriteRule "^encrypt$" "encrypt.php"
