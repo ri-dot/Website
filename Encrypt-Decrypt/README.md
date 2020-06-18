@@ -1,2 +1,2 @@
-# gd-efc
-Google Drive - encrypted folder copy
+# basic-sample-php-template-example
+Explanation for organizing the file structure
